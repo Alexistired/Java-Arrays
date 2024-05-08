@@ -1,0 +1,7 @@
+Enter score number 1: 1
+Enter score number 2: 2
+Enter score number 3: 3
+Enter score number 4: 4
+Enter score number 5: 5
+Sorted scores (highest to lowest): 5 4 3 2 1 
+Mean: 3.0
